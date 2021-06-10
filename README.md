@@ -8,7 +8,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=helmuthmn&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="helmuthmn" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=HelmuthMN&show_icons=true&theme=tokyonight" alt="helmuthmn" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=HelmuthMN&show_icons=true&theme=tokyonight" alt="helmuthmn" /></p>
 
 <!--
 **HelmuthMN/HelmuthMN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
