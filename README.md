@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋/h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">I'm a fullstack developer and gamedev enthusiastic.</h3>
 
 <h3 align="center">Languages and Tools:</h3>
